@@ -11,7 +11,6 @@
 // @require     RGraph.common.annotate.js
 // @require     RGraph.common.key.js
 // @require     RGraph.drawing.rect.js
-// @require     graph.css
 // ==/UserScript==
 
 function createButton() {
