@@ -9,3 +9,6 @@ report.
 
 Plenty to do...
 
+Here is the current state - 
+![alt tag](https://raw.github.com/pwillia7/ABetterGraph_WorkIt_Salesforce/master/Screen%20Shot%202013-09-12%20at%2010.28.56%20AM.png)
+![alt tag](https://raw.github.com/pwillia7/ABetterGraph_WorkIt_Salesforce/master/Screen%20Shot%202013-09-12%20at%2010.29.36%20AM.png)
